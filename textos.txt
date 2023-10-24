@@ -1,0 +1,74 @@
+SERVIÇOS
+
+Desenvolvimento de sistemas
+Temos a maior equipe de desenvolvedores certificados do mercado, traga sua necessidade e escolha a melhor opção custo X benefício
+
+------
+
+Criação de websites
+Sua empresa precisa estar nas mídias sociais o quanto antes, desenvolvemos seu site para todos os periféricos em tempo recorde!
+
+------
+
+Criação de Apps
+Para maior comodidade, o acesso à informação precisa estar em suas mãos, fazemos o seu App em 48 horas, traga seu projeto hoje
+
+
+**************************************
+
+
+PORTFÓLIO
+
+Pet Shop Cão Feliz
+Seu cão em boas mãos
+
+Em nossa pet shop o seu cão terá o cuidado que merece, temos uma ampla variedade de produtos, veterinários especializados, banho e tosa com profissionais treinados, além de um centro de convivência para cães, venha nos visitar com seu pet!
+
+------
+
+Casa de Massas Bom Sabor
+Massas artesanais
+
+Sabe aquela massa de domingo feita pela sua vó? Então, preparamos nossas massas artesanalmente como se fazia antigamente, do jeito que todo mundo gosta, preparamos vários tipos de massas e uma variedade de molhos, tudo fresquinho.
+
+------
+
+Floricultura Flor de Lis
+Perfumando o seu dia
+
+Tradição é nosso lema, preparamos buques com 3, 6, 9, 12, 24 e 36 rosas, temos uma variedade grande de cores, preparamos também cestas e arranjos para datas comemorativas, presentes, mudas e sementes, além de todos os acessórios para jardinagem
+
+
+******************************************
+
+RODAPÉ
+
+HTML5 e CSS3
+
+Este site foi desenvolvido com HTML5, CSS3, Bootstrap e Javascript, exemplo de site com navegação One Page
+
+Senac Vila Prudente - 2020
+
+------
+
+Contato
+
+Endereço:
+Rua do Orfanato, 316 - Vila Prudente
+E-mail:
+vilaprudente@sp.senac.br
+Fone:
+11 3474-0799
+
+------
+
+Links
+
+Home
+Serviços
+Portfólio
+Contato
+
+------
+
+Site desenvolvido no curso de HTML5 e CSS3 no Senac Vila Prudente © 2020
